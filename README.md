@@ -31,7 +31,7 @@ Sunday                   287 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+AL                       54 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
