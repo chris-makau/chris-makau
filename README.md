@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... AL
 - 📫 How to reach me ... chris_makau@hotmail.com
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -33,33 +33,34 @@ Sunday                   456 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-AL                       9 hrs 56 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.78 % 
-JSON                     2 hrs 26 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.68 % 
-TypeScript               2 hrs 6 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.35 % 
-TSConfig                 4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.52 % 
-Other                    4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.46 % 
+AL                       11 hrs 29 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.93 % 
+TypeScript               6 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.01 % 
+JSON                     2 hrs 56 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.02 % 
+Bash                     11 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.94 % 
+TSConfig                 4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (12.58%)
+⏱ AI Coding Time: 4 hrs 51 mins (23.2%)
 
-✍️ 281 lines written by AI, 642 lines written by hand (30.44% AI-written)
+✍️ 755 lines written by AI, 1,583 lines written by hand (32.29% AI-written)
 
-🔤 19,638,888 Input Tokens, 116,715 Output Tokens
+🔤 20,734,237 Input Tokens, 346,795 Output Tokens
 
-💵 $60.67 Estimated AI Cost This Week
+💵 $99.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 7 AI Sessions, 42 AI Prompts
 
-Sonnet                   480 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sonnet                   1,177 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   90.19 % 
+Fable                    128 lines           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.81 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.44% of written lines came from AI
-📚 Verbose Prompter — average 1,896 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 63.88% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 32.29% of written lines came from AI
+📚 Verbose Prompter — average 1,851 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 58.33% of changed lines were hand-edited
 ```
 
 
