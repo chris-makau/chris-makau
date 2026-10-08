@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... AL
 - 📫 How to reach me ... chris_makau@hotmail.com
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -33,36 +33,35 @@ Sunday                   457 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               6 hrs 56 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.43 % 
-AL                       4 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.37 % 
-JSON                     56 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.35 % 
-Other                    35 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 % 
-Markdown                 5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.73 % 
+TypeScript               7 hrs 9 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.92 % 
+AL                       6 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.22 % 
+Other                    1 hr 13 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.71 % 
+JSON                     55 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 % 
+XML                      3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 9 mins (64.06%)
+⏱ AI Coding Time: 9 hrs 55 mins (62.34%)
 
-✍️ 489 lines written by AI, 1,062 lines written by hand (31.53% AI-written)
+✍️ 143 lines written by AI, 534 lines written by hand (21.12% AI-written)
 
-🔤 8,294,913 Input Tokens, 484,016 Output Tokens
+🔤 8,512,386 Input Tokens, 489,178 Output Tokens
 
-💵 $32.69 Estimated AI Cost This Week
+💵 $33.42 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 126 AI Prompts
+🧠 10 AI Sessions, 142 AI Prompts
 
-Antigravity-Ide          346 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.76 % 
-Opus                     143 lines           ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.24 % 
+Opus                     143 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Antigravity-Desktop      0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Gemini                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.53% of written lines came from AI
-📝 Concise Prompter — average 386 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 69.81% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.12% of written lines came from AI
+📝 Concise Prompter — average 360 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 92.78% of changed lines were hand-edited
 ```
 
 
